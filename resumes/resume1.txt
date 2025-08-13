@@ -1,0 +1,16 @@
+John Doe
+
+Summary:
+Backend Developer with 3 years of experience in Python development. Skilled in Flask and Django frameworks.
+
+Skills:
+- Python, Flask, Django
+- REST API development
+- AWS EC2, S3
+- Docker, Git
+- Pandas, NumPy
+
+Experience:
+- Developed backend RESTful APIs using Flask
+- Deployed applications on AWS using Docker
+- Performed data preprocessing using Pandas and NumPy

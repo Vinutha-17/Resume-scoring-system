@@ -1,0 +1,15 @@
+Alex Johnson
+
+Summary:
+Frontend Engineer with strong experience in building UI with React and Angular.
+
+Skills:
+- HTML, CSS, JavaScript, TypeScript
+- React, Angular, Redux, Docker
+- Figma, Bootstrap, Pandas, AWS
+- REST API integration
+- Git
+
+Experience:
+- Created responsive SPAs using React
+- Integrated APIs from backend services

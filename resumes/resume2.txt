@@ -1,0 +1,16 @@
+Jane Smith
+
+Summary:
+Java Developer with experience in enterprise applications and cloud infrastructure.
+
+Skills:
+- Java, Spring Boot, Python
+- PostgreSQL, MongoDB
+- Azure DevOps
+- HTML, CSS, JavaScript
+- Git, Jenkins, Flask
+
+Experience:
+- Built microservices using Spring Boot
+- Managed deployments via Azure pipelines
+- Worked with frontend team on web UI
